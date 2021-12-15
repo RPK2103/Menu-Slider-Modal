@@ -1,1 +1,1 @@
-# Menu-Slider-Modal
+# Menu-Slider-and-Modal
